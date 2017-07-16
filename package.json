@@ -1,6 +1,6 @@
 {
   "dependencies": {
-
+    "busboy": "^0.2.14"
   },
   "description": "Periodic's Core files module exports functions for integrating multer with periodic's express application.",
   "devDependencies": {
