@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "busboy": "^0.2.14"
+    "busboy": "^0.3.0"
   },
   "description": "Periodic's Core files module exports functions for integrating multer with periodic's express application.",
   "devDependencies": {
@@ -33,11 +33,11 @@
     "sinon-chai": "^2.8.0"
   },
   "engines": {
-    "node": "^6.x"
+    "node": "^8.x"
   },
   "name": "periodicjs.core.files",
   "optionalDependencies": {},
   "peerDependencies": {},
   "scripts": {},
-  "version": "6.2.0"
+  "version": "7.0.0"
 }
